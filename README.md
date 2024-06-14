@@ -1,6 +1,6 @@
 # Intro to Bioinformatics Engineering, Part 3: Jupyter Notebook to Nextflow Pipeline
 
-Example code and dataset for MantleBio's Jupyter Notebook to Nextflow Pipeline blog post.
+Example code and dataset for MantleBio's [Jupyter Notebook to Nextflow Pipeline blog post](https://blog.mantlebio.com/p/intro-to-bioinformatics-engineering-74f).
 
 ### Dataset attribution
 
